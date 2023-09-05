@@ -1,0 +1,23 @@
+{
+  "package_name": "test_msgs",
+  "non_idl_tuples": [
+    "/home/ros2wasm-builder/install/share/test_interface_files:msg/Arrays.msg",
+    "/home/ros2wasm-builder/install/share/test_interface_files:msg/BasicTypes.msg",
+    "/home/ros2wasm-builder/install/share/test_interface_files:msg/BoundedPlainSequences.msg",
+    "/home/ros2wasm-builder/install/share/test_interface_files:msg/BoundedSequences.msg",
+    "/home/ros2wasm-builder/install/share/test_interface_files:msg/Constants.msg",
+    "/home/ros2wasm-builder/install/share/test_interface_files:msg/Defaults.msg",
+    "/home/ros2wasm-builder/install/share/test_interface_files:msg/Empty.msg",
+    "/home/ros2wasm-builder/install/share/test_interface_files:msg/MultiNested.msg",
+    "/home/ros2wasm-builder/install/share/test_interface_files:msg/Nested.msg",
+    "/home/ros2wasm-builder/install/share/test_interface_files:msg/Strings.msg",
+    "/home/ros2wasm-builder/install/share/test_interface_files:msg/UnboundedSequences.msg",
+    "/home/ros2wasm-builder/install/share/test_interface_files:msg/WStrings.msg",
+    "/home/ros2wasm-builder/install/share/test_interface_files:srv/Arrays.srv",
+    "/home/ros2wasm-builder/install/share/test_interface_files:srv/BasicTypes.srv",
+    "/home/ros2wasm-builder/install/share/test_interface_files:srv/Empty.srv",
+    "/home/ros2wasm-builder/install/share/test_interface_files:action/Fibonacci.action",
+    "/home/ros2wasm-builder/src/ros2/rcl_interfaces/test_msgs:msg/Builtins.msg",
+    "/home/ros2wasm-builder/src/ros2/rcl_interfaces/test_msgs:action/NestedMessage.action"
+  ]
+}

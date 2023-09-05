@@ -1,0 +1,8 @@
+
+[:python_version < "3.8"]
+importlib-metadata
+
+[test]
+flake8
+flake8_import_order
+pytest

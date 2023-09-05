@@ -1,0 +1,4 @@
+source;share/dynmsg/local_setup.bash
+source;share/dynmsg/local_setup.dsv
+source;share/dynmsg/local_setup.sh
+source;share/dynmsg/local_setup.zsh

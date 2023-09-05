@@ -1,0 +1,8 @@
+# generated from colcon_core/shell/template/command_prefix.sh.em
+. "/home/Ros2Wasm/tst/ros2wasm-builder/install/share/ament_lint/package.sh"
+. "/home/Ros2Wasm/tst/ros2wasm-builder/install/share/ament_package/package.sh"
+. "/home/Ros2Wasm/tst/ros2wasm-builder/install/share/ament_cmake_core/package.sh"
+. "/home/Ros2Wasm/tst/ros2wasm-builder/install/share/ament_cmake_test/package.sh"
+. "/home/Ros2Wasm/tst/ros2wasm-builder/install/share/ament_copyright/package.sh"
+. "/home/Ros2Wasm/tst/ros2wasm-builder/install/share/ament_lint_cmake/package.sh"
+. "/home/Ros2Wasm/tst/ros2wasm-builder/install/share/ament_cmake_lint_cmake/package.sh"

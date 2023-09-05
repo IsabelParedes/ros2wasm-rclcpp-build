@@ -1,0 +1,4 @@
+/home/ros2wasm-builder/build/action_msgs/rosidl_adapter/action_msgs:msg/GoalInfo.idl
+/home/ros2wasm-builder/build/action_msgs/rosidl_adapter/action_msgs:msg/GoalStatus.idl
+/home/ros2wasm-builder/build/action_msgs/rosidl_adapter/action_msgs:msg/GoalStatusArray.idl
+/home/ros2wasm-builder/build/action_msgs/rosidl_adapter/action_msgs:srv/CancelGoal.idl

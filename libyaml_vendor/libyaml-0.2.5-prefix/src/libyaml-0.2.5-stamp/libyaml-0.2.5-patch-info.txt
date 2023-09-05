@@ -1,0 +1,6 @@
+# This is a generated file and its contents are an internal implementation detail.
+# The update step will be re-executed if anything in this file changes.
+# No other meaning or use of this file is supported.
+
+command=/home/micromamba/envs/tst-ros/bin/cmake;-E;chdir;<SOURCE_DIR>;git;apply;-p1;--ignore-space-change;--whitespace=nowarn;/home/ros2wasm-builder/src/ros2/libyaml_vendor/0001-Install-yaml.h-to-INSTALL_INCLUDE_DIR.patch
+work_dir=/home/ros2wasm-builder/build/libyaml_vendor/libyaml-0.2.5-prefix/src/libyaml-0.2.5

@@ -1,0 +1,3 @@
+source;share/dynmsg/environment/ament_prefix_path.sh
+source;share/dynmsg/environment/library_path.sh
+source;share/dynmsg/environment/path.sh
